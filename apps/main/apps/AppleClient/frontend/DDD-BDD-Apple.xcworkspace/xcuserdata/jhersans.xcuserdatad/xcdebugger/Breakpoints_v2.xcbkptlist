@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1784A622-0D42-4AFB-A66C-5FFC2490D236"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7DC8941-9921-42E0-839C-6448E839CA8E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../src/AppleContext/Tests/FirstModuleTests/AppleContextTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "testUserAddsNewTaskToAnEmptyList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7DC8941-9921-42E0-839C-6448E839CA8E - b93a55dfdb6aad2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirstModuleTests.AppleContextTests.test_false_false() throws -&gt; ()"
+                  moduleName = "FirstModuleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhersans/DDD-BDD-Example/src/AppleContext/Tests/FirstModuleTests/AppleContextTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "915">
+               </Location>
+               <Location
+                  uuid = "B7DC8941-9921-42E0-839C-6448E839CA8E - b93a55dfdb6aad2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirstModuleTests.AppleContextTests.test_false_false() throws -&gt; ()"
+                  moduleName = "FirstModuleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhersans/DDD-BDD-Example/src/AppleContext/Tests/FirstModuleTests/AppleContextTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1646">
+               </Location>
+               <Location
+                  uuid = "B7DC8941-9921-42E0-839C-6448E839CA8E - b93a55dfdb6aad2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirstModuleTests.AppleContextTests.test_false_false() throws -&gt; ()"
+                  moduleName = "FirstModuleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhersans/DDD-BDD-Example/src/AppleContext/Tests/FirstModuleTests/AppleContextTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1484">
+               </Location>
+               <Location
+                  uuid = "B7DC8941-9921-42E0-839C-6448E839CA8E - b93a55dfdb6aad4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirstModuleTests.AppleContextTests.test_false_false() throws -&gt; ()"
+                  moduleName = "FirstModuleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhersans/DDD-BDD-Example/src/AppleContext/Tests/FirstModuleTests/AppleContextTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1484">
+               </Location>
+               <Location
+                  uuid = "B7DC8941-9921-42E0-839C-6448E839CA8E - b93a55dfdb6aad2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirstModuleTests.AppleContextTests.test_false_false() throws -&gt; ()"
+                  moduleName = "FirstModuleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhersans/DDD-BDD-Example/src/AppleContext/Tests/FirstModuleTests/AppleContextTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+               <Location
+                  uuid = "B7DC8941-9921-42E0-839C-6448E839CA8E - b93a55dfdb6aad4e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirstModuleTests.AppleContextTests.test_false_false() throws -&gt; ()"
+                  moduleName = "FirstModuleTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhersans/DDD-BDD-Example/src/AppleContext/Tests/FirstModuleTests/AppleContextTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "881F0C59-A288-4CF4-9B83-6937D3FDD931"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../src/AppleContext/Tests/FirstModuleTests/Application/AddTaskUCTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "defineSteps()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8F87631E-C87C-4EA3-A4BD-904F301D3E9F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../src/AppleContext/Tests/FirstModuleTests/Application/AddTaskUCTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "defineSteps()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "979707CE-5C2D-43CA-9252-E4BB9A743AF9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../src/AppleContext/Tests/AppleContextTests/FirstModuleTests/Application/AddTaskListPresenterTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "testUserAddsNewTaskToAnNonEmptyListAndTheListIsNotFull()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C86E595-6F87-4CD4-8C34-532E3C4EEB94"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../src/AppleContext/Tests/AppleContextTests/FirstModuleTests/Application/AddTaskListPresenterTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "defineSteps()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA93D968-3DB6-47C5-A791-297F10730B09"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../src/AppleContext/Tests/AppleContextTests/FirstModuleTests/Application/AddTaskListPresenterTestCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "defineSteps()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E8091D10-B6C7-45B5-A3B9-ABC23290D262"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../src/AppleContext/Tests/AppleContextTests/TaskTests/Domain/TaskDescriptionMother.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "random()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E8091D10-B6C7-45B5-A3B9-ABC23290D262 - 40624a49d96387d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AppleContextTests.TaskDescriptionMother.random() -&gt; AppleContext.TaskDescription"
+                  moduleName = "AppleContextTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhersans/DDD-BDD-Example/src/AppleContext/Tests/AppleContextTests/TaskTests/Domain/TaskDescriptionMother.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  uuid = "E8091D10-B6C7-45B5-A3B9-ABC23290D262 - 40624a49d96387d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static AppleContextTests.TaskDescriptionMother.random() -&gt; AppleContext.TaskDescription"
+                  moduleName = "AppleContextTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jhersans/DDD-BDD-Example/src/AppleContext/Tests/AppleContextTests/TaskTests/Domain/TaskDescriptionMother.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "75">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
